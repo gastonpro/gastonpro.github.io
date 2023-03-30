@@ -29,7 +29,8 @@
   }
 
 .PRESENTACION_CV img {
-    width: 150px;
+    width: 160px;
+    border: 5px solid lavender;
 }
 
 .INFORMACION_CV {
